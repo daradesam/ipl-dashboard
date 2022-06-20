@@ -1,0 +1,18 @@
+.player-card-wrapper{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 5PX;
+    margin: 10px;
+    width: 70%;
+    background-color: rgb(205, 53, 202);
+}
+
+.player-card-wrapper:hover{
+    cursor: pointer;
+}
+
+.player-card-wrapper>*{
+    margin: 10px;
+}

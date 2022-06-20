@@ -1,0 +1,11 @@
+.team-cards-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+    justify-content: center;
+}
+
+.teams-info-wrapper{
+    padding: 30px;
+    background-color: #e5e5e5;
+}

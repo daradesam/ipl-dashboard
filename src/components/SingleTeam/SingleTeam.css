@@ -1,0 +1,14 @@
+.single-team-wrapper{
+    border: 1px solid black;
+    border-radius: 15px;
+    height: 300px;
+    width: 200px;
+    margin: 20px;
+    padding: 10px;
+}
+
+.single-team-wrapper:hover{
+    cursor: pointer;
+    height: 305px;
+    width: 205px;
+}
